@@ -7,6 +7,18 @@
 
 .app-deck #app-content {
 
+    .stack {
+  	   background-color: black;
+
+       h3 {
+         background-color: black;
+       }
+    }
+
+    #innerBoard {
+      background-color: black;
+    }
+
     #controls {
 
         #stack-add {
@@ -58,7 +70,7 @@
 
                 .due {
                     opacity: 0.7;
-                    
+
                     span {
                         color: $foreground-active;
                     }
