@@ -2796,6 +2796,9 @@ button#deleteaccount {
 .container {
   background-color: black !important;
 }
+#sidebar-header h3 {
+  background-color: black !important;
+}
 
 .app-settings #app-content #fns .div-table .div-table-row .div-table-col select, .app-settings #app-content #fns .div-table .div-table-row .div-table-col input, .app-settings #app-content #elastic_search .div-table .div-table-row .div-table-col select, .app-settings #app-content #elastic_search .div-table .div-table-row .div-table-col input, .app-settings #app-content #files .div-table .div-table-row .div-table-col select, .app-settings #app-content #files .div-table .div-table-row .div-table-col input {
   background-color: #232629 !important; }
