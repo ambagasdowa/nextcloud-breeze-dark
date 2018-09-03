@@ -2788,7 +2788,8 @@ button#deleteaccount {
 .app-deck #app-content #app-sidebar #card-meta .attachment-list li.attachment .filesize, .app-deck #app-content #app-sidebar #card-meta .attachment-list li.attachment .filedate {
   color: #bdc3c7; }
 
-.app-deck #app-content #innerBoard {
+/* .app-deck #app-content  */
+#innerBoard #board{
   background-color: black;
 }
 
