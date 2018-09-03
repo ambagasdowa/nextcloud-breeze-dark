@@ -2790,7 +2790,7 @@ button#deleteaccount {
 
 /* .app-deck #app-content  */
 /* #innerBoard */
-#board #markdown{
+#board .container{
   background-color: black;
 }
 
