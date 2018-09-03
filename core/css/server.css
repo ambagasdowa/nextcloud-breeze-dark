@@ -2788,9 +2788,9 @@ button#deleteaccount {
 .app-deck #app-content #app-sidebar #card-meta .attachment-list li.attachment .filesize, .app-deck #app-content #app-sidebar #card-meta .attachment-list li.attachment .filedate {
   color: #bdc3c7; }
 
-  #innerBoard {
-    background-color: black;
-  }
+.app-deck #app-content #innerBoard {
+  background-color: black;
+}
 
 
 .app-settings #app-content #fns .div-table .div-table-row .div-table-col select, .app-settings #app-content #fns .div-table .div-table-row .div-table-col input, .app-settings #app-content #elastic_search .div-table .div-table-row .div-table-col select, .app-settings #app-content #elastic_search .div-table .div-table-row .div-table-col input, .app-settings #app-content #files .div-table .div-table-row .div-table-col select, .app-settings #app-content #files .div-table .div-table-row .div-table-col input {
