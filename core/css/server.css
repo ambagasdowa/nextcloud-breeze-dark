@@ -2790,13 +2790,13 @@ button#deleteaccount {
 
 /* =========================================================================  */
 /* Change Colors over Deck style */
-.app-deck #app-content #board {
+#board {
   background-color: black;
 }
-.app-deck #app-content .container {
+.container {
   background-color: black !important;
 }
-.app-deck #app-content #sidebar-header h3 {
+#sidebar-header h3 {
   background-color: black !important;
 }
 
